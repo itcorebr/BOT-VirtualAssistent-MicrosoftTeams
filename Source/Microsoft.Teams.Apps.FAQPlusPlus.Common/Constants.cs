@@ -68,17 +68,17 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Common
         /// <summary>
         /// TakeAtour - text that triggers take a tour action for the user.
         /// </summary>
-        public const string TakeATour = "take a tour";
+        public const string TakeATour = "Faça uma visita";
 
         /// <summary>
         /// AskAnExpert - text that renders the ask an expert card.
         /// </summary>
-        public const string AskAnExpert = "ask an expert";
+        public const string AskAnExpert = "Pergunte ao especialista";
 
         /// <summary>
         /// Feedback - text that renders share feedback card.
         /// </summary>
-        public const string ShareFeedback = "share feedback";
+        public const string ShareFeedback = "Compartilhe seu comentário";
 
         /// <summary>
         /// Table name where SME activity details from bot will be saved.
